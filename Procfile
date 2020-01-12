@@ -1,0 +1,1 @@
+job: target/universal/stage/bin/heroku-scheduler-sample
